@@ -13,4 +13,4 @@ The app features a user interface with four buttons:
 
 
 Please note that this type of app may violate the Steam Terms of Service, and it is recommended to use it at your own risk.
-Thank you for using the CS2 Ultimate Investment Tracker!
+
