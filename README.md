@@ -12,5 +12,5 @@ The app features a user interface with four buttons:
 - Information (Opens a new window with simple information about the app)
 
 
-Please note that this type of app may violate the Steam Terms of Service, and it is recommended to use it at your own risk. <br> It is also important to note that the code may not be optimized for temporal and space complexity, as the app was created for functionality rather than professional use.
+Please note that this type of app may violate the Steam Terms of Service, and it is recommended to use it at your own risk. <br> <br> It is also important to note that the code may not be optimized for temporal and space complexity, as the app was created for functionality rather than professional use.
 
