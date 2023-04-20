@@ -4,6 +4,8 @@ The CS2 Ultimate Investment Tracker is an application designed to help track inv
 
 The application utilizes the Chrome browser to navigate to the Steam inventory profile and, through web scraping, finds the necessary elements in the Steam Inventory Helper extension to track investments by pre selected categories.<br>
 
+![image](https://user-images.githubusercontent.com/82287232/233439665-37a9d60d-85c5-443c-8485-2a30267154fd.png)
+
 The app features a user interface with four buttons:
 
 - Update Prices (Runs the main web scraping script)
