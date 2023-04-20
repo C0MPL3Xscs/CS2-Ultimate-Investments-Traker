@@ -6,7 +6,7 @@ The application utilizes the Chrome browser to navigate to the Steam inventory p
 
 The app features a user interface with four buttons:
 
--Update Prices (Runs the main web scraping script)
+- Update Prices (Runs the main web scraping script)
 - Open Steam Text (Opens a formatted text for the Steam textbox with the latest prices)
 - Check Last Price Record (Opens a simple text with the latest prices)
 - Information (Opens a new window with simple information about the app)
