@@ -15,7 +15,7 @@ Please note that this type of app may violate the Steam Terms of Service, and it
 
 ## Interface
 
-<img src="https://user-images.githubusercontent.com/82287232/233439665-37a9d60d-85c5-443c-8485-2a30267154fd.png" alt="image" width="400" height="413" />
+<img src="https://user-images.githubusercontent.com/82287232/233439665-37a9d60d-85c5-443c-8485-2a30267154fd.png" alt="image" width="420" height="413" />
 
 ## Steam Formated Text
 
