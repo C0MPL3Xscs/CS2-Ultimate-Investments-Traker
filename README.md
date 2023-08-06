@@ -1,6 +1,6 @@
 # CS2-Ultimate-Investments-Traker
 
-The CS2 Ultimate Investment Tracker is an application designed to help track investments and update investment portfolios. The app was created for personal use, but if you have an understanding of Python, you can easily modify it to suit your needs. <br> <br>
+The CS2 Ultimate Investment Tracker is an application designed to help track investments and update investment portfolios. The app was created for personal use, but if you have basic understanding of Python, you can easily modify it to suit your needs. <br> <br>
 
 The application utilizes the Chrome browser to navigate to the Steam inventory profile and, through web scraping, finds the necessary elements in the Steam Inventory Helper extension to track investments by pre selected categories.<br>
 
