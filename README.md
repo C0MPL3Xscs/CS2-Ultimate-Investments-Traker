@@ -29,3 +29,4 @@ Please note that this type of app may violate the Steam Terms of Service, and it
 
 <img src="https://user-images.githubusercontent.com/82287232/233441876-fabb5c25-b67f-49ca-8b73-084a524983c1.png" alt="image" width="470" height="350" />
 
+Found this helpful? You can support me by [Buying me a coffe ☕ ](https://www.buymeacoffee.com/samukasamp)
